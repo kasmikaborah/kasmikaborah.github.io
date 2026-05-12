@@ -50,8 +50,8 @@ body{
 
 .hero-section{
     width:100%;
-    height:500px;
-    background-image:url('/images/background.jpg');
+    height:550px;
+    background-image:url('{{ site.baseurl }}/images/background.jpg');
     background-size:cover;
     background-position:center;
     display:flex;
@@ -59,11 +59,23 @@ body{
     justify-content:flex-end;
     padding-right:120px;
     margin-top:80px;
+    position:relative;
+}
+
+.hero-section::before{
+    content:'';
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.45);
 }
 
 .hero-text{
+    position:relative;
+    z-index:2;
     color:white;
-    max-width:600px;
 }
 
 .hero-text h1{
@@ -190,7 +202,7 @@ body{
 
 <div class="profile-section">
 
-    <img src="/images/pic.JPG">
+    <img src="/images/profile.jpg">
 
 </div>
 

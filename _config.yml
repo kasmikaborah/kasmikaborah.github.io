@@ -23,7 +23,7 @@ repository               : "https://kasmikaborah.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pic.JPG"
+  avatar           : "profile.jpg"
   name             : "KASMIKA BORAH"
   pronouns         : # example: "she/her"  
   bio              : "Computational Biology, Bioinformatics, Machine Learning, Deep Learning, Cancer Biology"
