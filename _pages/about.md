@@ -43,3 +43,16 @@ In addition, I have co-supervised undergraduate and postgraduate students in bio
 - Author of the book: *Feature Selection and Extraction on Omics*
 - Published 18 peer-reviewed research articles in bioinformatics, computational biology, cancer biology, and drug discovery
 - Participated in cancer awareness and biomedical outreach programs
+
+## Fellowship and Award
+- DBT-Traineeship, CSIR-NEIST, 2017 
+- DBT-Studentship, CSIR-NEIST, 2018
+- Anandaram Barooah Merit Award
+- Assam Goverment Jivan Anuperona Scheme Award
+
+## Developed Models
+- DOMSCNet (Cancer Classification)
+- SMB (Feature Selection)
+- scGImpute (Imputation of single cell sequencing data)
+- BreakHis (Breast cancer detection)
+- RankXLAN (Framework for NGS data analysis)
