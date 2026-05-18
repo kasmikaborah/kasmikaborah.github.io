@@ -1,7 +1,7 @@
 ---
-title: "Services"
+title: "Contact"
 layout: single
-permalink: /services/
+permalink: /Contact/
 ---
 
 
