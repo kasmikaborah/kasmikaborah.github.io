@@ -3,8 +3,7 @@ title: "Publications"
 layout: single
 permalink: /publications/
 ---
-
-# Publications
+googlescholar    : "https://scholar.google.com/citations?user=cnzjJ3wAAAAJ&hl=en&oi=ao"
 
 ## Book
 
