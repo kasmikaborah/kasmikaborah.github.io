@@ -23,7 +23,9 @@ My research focuses on:
 - AI-driven biomarker identification
 - Precision Oncology
 
-During my PhD research, I developed various machine learning and deep learning preprocessing to postprocessing, clustring models for cancer diagnosis using next-generation sequencing datasets. I have also worked on breast cancer histopathology image analysis, image annotation, computational drug design, and biological database analysis. Additionaly, I have worked on wind speed prediction project with DRDO, India.
+During my PhD research, I developed various machine learning and deep learning preprocessing to postprocessing models for cancer diagnosis using next-generation sequencing datasets. I have also worked on breast cancer histopathology image analysis, image annotation, computational drug design, and biological database analysis. 
+
+Additionaly, I have worked on wind speed prediction project with DRDO, India.
 
 In addition, I have co-supervised undergraduate and postgraduate students in bioinformatics, machine learning, and deep learning research projects.
 
