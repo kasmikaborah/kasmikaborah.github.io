@@ -1,8 +1,9 @@
 ---
 title: "Services"
 layout: single
-permalink: /services/
+permalink: /Services/
 ---
+
 
 # Services
 
@@ -23,3 +24,9 @@ permalink: /services/
 
 - Consultancy for Masters in Bioinformatics, Computational Biology
 - Consulatncy for the students who wants do PhD in Abroad
+
+
+
+
+
+
