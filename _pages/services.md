@@ -5,25 +5,22 @@ permalink: /Services/
 ---
 
 
-# Services
-
 - NGS data upstream analysis
-- NGS data downtream analysis
-- Hybrid and advanced ML/DL model development for any domain
+- NGS data downstream analysis
+- Development of hybrid and advanced ML/DL models for various domains
+- Projects in Machine Learning (ML), Deep Learning (DL), and Artificial Intelligence (AI)
+- Bioinformatics project development
+- Research manuscript writing and editing
+- Project proposal writing
 
+- Research collaboration and scientific consulting
+- ATS-optimized CV creation for industry jobs
+- Academic CV preparation for research and faculty positions
+- Consultancy for Master's programs in Bioinformatics and Computational Biology
+- Consultancy for students interested in pursuing PhD opportunities abroad
 
-
-- Projects on ML, DL and AI
-- Projects on Bioinformatics
-
-= Research manucript writting
-- Project proposal writting
-- Research collaboration
-- Create ATS based CV for Industry Job
-- Created CV for academics Job
-
-- Consultancy for Masters in Bioinformatics, Computational Biology
-- Consulatncy for the students who wants do PhD in Abroad
+- Bioinformatics and ML course 
+- Beginers course on GPT and Claude 
 
 
 

@@ -38,22 +38,18 @@ Genomics, Springer Nature, 24(5), 139. doi:10.1007/s10142-024-01415-x [Q2]
 
 ## Conference
 
-• Borah, K., & Das, H. S. (2025). In-silico Interaction Study of FDA-approved and Natural Compound Drugs to
+- Borah, K., & Das, H. S. (2025). In-silico Interaction Study of FDA-approved and Natural Compound Drugs to
 Targets of Stomach Cancer. COMSYS 2025, Warsaw University of Technology, Poland. (In Press)
-• Borah, K., Das, H. S., Paul, S., Nath, A., & Sengupta, S. (2024). Evaluating Imputation Techniques for
+- Borah, K., Das, H. S., Paul, S., Nath, A., & Sengupta, S. (2024). Evaluating Imputation Techniques for
 scRNA-seq Data in Stomach Cancer Analysis. MIND 2024, MLINS, NIT Goa. Springer Nature Switzerland,
 pp. 125–137.
-• Jamir, E., Kangabam, R. D., Borah, K. et al. (2019). Role of soil microbiome and enzyme activities in plant
-growth, nutrition and ecological restoration of soil health. In Microbes and Enzymes in Soil Health and
-Bioremediation (pp. 99–132). Springer Singapore.
-Conference Proceedings
-• Borah, K., Das, H. S., & Das, H. S. (2025). Hybrid Deep Recurrent Neural Networks for Accurate Wind Speed
+- Borah, K., Das, H. S., & Das, H. S. (2025). Hybrid Deep Recurrent Neural Networks for Accurate Wind Speed
 Prediction. 2025 4th International Conference on Range Technology (ICORT), pp. 1–6. IEEE.
 
 ## Conference Presentations
-• 2025 —Participated and presented RegICON, Gauhati University, India. (Oral)
-• 2025 — Participated and presented COMSYS 2025, Warsaw University of Technology, Poland. (Oral,
+- 2025 —Participated and presented RegICON, Gauhati University, India. (Oral)
+- 2025 — Participated and presented COMSYS 2025, Warsaw University of Technology, Poland. (Oral,
 International)
-• 2024 —Participated and presented MIND 2024, NIT Goa, India. (Oral)
-• 2020 —Poster presentation. ESTEC International Conference, CSIR-NEIST, India.
-• 2019 —Recent Advances in Bioinformatics. CSIR-NEIST Conference, India. (Organiser & Presenter)
+- 2024 —Participated and presented MIND 2024, NIT Goa, India. (Oral)
+- 2020 —Poster presentation. ESTEC International Conference, CSIR-NEIST, India.
+- 2019 —Recent Advances in Bioinformatics. CSIR-NEIST Conference, India. (Organiser & Presenter)
