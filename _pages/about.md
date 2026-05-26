@@ -7,12 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello everyone, welcome to my website
-
- I am Kasmika Borah, a PhD researcher at the Department of Computer Science and IT, Cotton University, Assam, India. I completed my Master's degree in Bioinformatics from Dibrugarh University, Assam, India. I have more than 8 years of experience as a Bioinformatician and Computational Biologist. My research interests are Biology, Oncology, Neurology, Bioinformatics, Machine Learning, Deep Learning, and AI.  
-
-
-Previously, I worked as a Bioinformatician at RogNidaan Technologies Pvt. Ltd. and as a DBT Project Junior Research Fellow (JRF) at CSIR-NEIST, Assam, India.
 
 My research focuses on:
 - Cancer genomics
