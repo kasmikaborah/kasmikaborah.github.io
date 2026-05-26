@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello evryone, Welcome to my website
+Hello everyone, welcome to my website
 
- I am Kasmika Borah, a PhD researcher at the Department of Computer Science and IT, Cotton University, Assam, India. I completed my Master's degree in Bioinformatics from Dibrugarh University, Assam, India. I have more than 8 years of experience as Bioinformatician and Computational Biologist. My reseach interest are Biology, Oncology, Neurology, Bioinfromatics, Machine Learning, Deep learning, AI.  
+ I am Kasmika Borah, a PhD researcher at the Department of Computer Science and IT, Cotton University, Assam, India. I completed my Master's degree in Bioinformatics from Dibrugarh University, Assam, India. I have more than 8 years of experience as a Bioinformatician and Computational Biologist. My research interests are Biology, Oncology, Neurology, Bioinformatics, Machine Learning, Deep Learning, and AI.  
 
 
 Previously, I worked as a Bioinformatician at RogNidaan Technologies Pvt. Ltd. and as a DBT Project Junior Research Fellow (JRF) at CSIR-NEIST, Assam, India.
@@ -25,7 +25,7 @@ My research focuses on:
 
 During my PhD research, I developed various machine learning and deep learning preprocessing to postprocessing models for cancer diagnosis using next-generation sequencing datasets. I have also worked on breast cancer histopathology image analysis, image annotation, computational drug design, and biological database analysis. 
 
-Additionaly, I have worked on wind speed prediction project with DRDO, India.
+Additionally, I have worked on a wind speed prediction project with DRDO, India.
 
 In addition, I have co-supervised undergraduate and postgraduate students in bioinformatics, machine learning, and deep learning research projects.
 
@@ -34,15 +34,15 @@ In addition, I have co-supervised undergraduate and postgraduate students in bio
 - mRNA, miRNA, DNA methylation, and exon expression analysis
 - scRNA-seq, scATAC-seq, and CITE-seq data interpretation
 - Explainable AI for stomach, liver, and cervical cancer classification
-- Advanced Deep learning architectures for precision oncology (BiLSTM, BiGRU, Attention mechanism, Tranformers, Generative AI)
+- Advanced Deep learning architectures for precision oncology (BiLSTM, BiGRU, Attention mechanism, Transformers, Generative AI)
 - Histopathology and cytology image acquisition and annotation
 - Drug discovery, molecular docking, and molecular dynamics simulation
 - Python, R, Bash, SQL, Linux, Windows
 - TensorFlow, PyTorch, Git
-- GPT, and Claude for research
+- GPT and Claude for research
 - Bioinformatics pipelines and database development
 - Biomedical image processing
-- Grant proposal and Q1 journal publication writting
+- Grant proposal and Q1 journal publication writing
 
 ## Publications & Academic Contributions
 
@@ -54,7 +54,7 @@ In addition, I have co-supervised undergraduate and postgraduate students in bio
 - DBT-Traineeship, CSIR-NEIST, 2017 
 - DBT-Studentship, CSIR-NEIST, 2018
 - Anandaram Barooah Merit Award, 2010
-- Assam Goverment Jivan Anuperona Scheme Award, 2026
+- Assam Government Jivan Anuperona Scheme Award, 2026
 
 ## Developed AI/ML Models
 - DOMSCNet (Cancer Classification)
@@ -66,7 +66,7 @@ In addition, I have co-supervised undergraduate and postgraduate students in bio
 ## Foreign Collaboration
 
 - Harvard University
-- King saud university
-- Kathmandu university
-- Arizona university
+- King Saud University
+- Kathmandu University
+- Arizona University
 - DRDO India
